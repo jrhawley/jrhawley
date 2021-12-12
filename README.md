@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a Computational Biologist at Roche.
+I'm currently a Computational Biologist [@Roche](https://github.com/Roche).
 I completed my PhD in computational epigenetics at the University of Toronto in the [@LupienLab](https://github.com/LupienLab).
 
 - 💬 Ask me about mathematics, physics, technology, and anything else, really
